@@ -17,6 +17,7 @@ login pages
   <right>
   <img src="https://img.freepik.com/premium-photo/cartoon-character-with-shopping-bags-3d-illustration_39406-581.jpg?w=2000" width="200">
   </right>
-
+  <hr>
+<marquee bgcolor="yellow"><font color="red">ekart everything you should know</font></marquee>
   </body>
 </html>
