@@ -18,6 +18,6 @@ login pages
   <img src="https://img.freepik.com/premium-photo/cartoon-character-with-shopping-bags-3d-illustration_39406-581.jpg?w=2000" width="200">
   </right>
   <hr>
-<marquee bgcolor="yellow"><font color="red">ekart everything you should know</font></marquee>
+<marquee bgcolor="yellow"><font color="red">ekart everything you should know Ekart Store is India's leading mobile retail shopping store that offers smartphones ,electronics accessories etc..we are having a great offers on each</font></marquee>
   </body>
 </html>
