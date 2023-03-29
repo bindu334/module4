@@ -6,7 +6,7 @@ login pages
 </head>
 <body bgcolor="rainbow">
 <center>
-<h1><font color=" dark pink">IEKART</font></h1>
+<h1><font color=" dark pink">IEKART SHOPPING</font></h1>
 </center>
  <img src="https://img.freepik.com/free-vector/template-banner-online-store-with-shopping-cart-with-purchases-boxes-delivery-from-supermarket-vector-illustration_548887-104.jpg">
  <ul>
